@@ -14,6 +14,7 @@ public class Faclty {
     private String name;
     private String dob;
     private int subjectId;
+    private int studentId;
 
 
     public int getTeacherId() {
